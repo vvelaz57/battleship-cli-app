@@ -341,6 +341,12 @@ _note: the easiest way to get this into a log statement is to use [template lite
 
 - [ ] Provide a `npm run start-game` or a `bun run start-game` script so that way we can play your game easily by pulling your project. This script should basically run the file that starts the game
 
-### A note on Technology
+### A Note on Technology
 
 If you're going to build this in Javascript, you're probably best off creating an npm project, but if you're feeling like trying out typescript feel free to use Bun.
+
+### How to Submit this Project
+
+After forking / cloning this repository, use this folder and initialize a new project (npm or bun), and get to work!
+
+Best of luck
