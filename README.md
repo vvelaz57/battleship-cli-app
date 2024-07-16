@@ -4,16 +4,6 @@
 
 Today we're going to build a game of battleship in your CLI (Command Line Interface)
 
-## Setup
-
-To start out on this project first fork & clone this repository into a local folder.
-
-In your local folder run:
-
-```bash
-bun install
-```
-
 ## About the Game
 
 ### The Board
