@@ -194,6 +194,7 @@ console.table({
   C: ["-", "-", "-"],
 }); // go ahead and try copying and pasting this into a script and testing it out for yourself <3
 ```
+*note: an exclamation mark means that you've missed that cell, both for debug mode and regular mode*
 
 But if we call `printBoard(board, true)`, then we should see this:
 
@@ -258,6 +259,20 @@ To prove this in VSCode type in `CMD + Shift + P` to open up your command menu. 
 
 When you first run your terminal game you should be greeted with the following text:
 
+### How many Ships Per Board Size
+
+4X4:
+ - [ ] 1 large
+ - [ ] 1 small
+
+5X5 
+ - [ ] 1 large
+ - [ ] 2 small
+
+6X6
+ - [ ] 2 large
+ - [ ] 2 small
+ 
 ### Greeting Menu
 
 ```txt
