@@ -310,7 +310,9 @@ choose a Board Size
 - [ ] Each Turn we should see this screen:
   - [ ] The board is printed
   - [ ] Underneath we can see `Make a guess eg.. A1, B2, etc...`
+        
         ![full-guess-screen.png](./images/full-guess-screen.png)
+        
 - [ ] In between guesses, you should clear the console so that way you are only looking at the fresh information and not the information from the previous turn. This can be accomplished with...
 
 ```js
