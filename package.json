@@ -1,0 +1,9 @@
+{
+  "name": "Battleship-CLI-app",
+  "scripts": {
+    "game": "node Battleship.js"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
